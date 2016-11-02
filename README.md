@@ -5,4 +5,4 @@
 ##Excercise 3 - crate an app - complete
 ##Excercise 4 - overview of basic app- complete
 ##Excercise 5 - views complete
-##Excercise 6 - Database setup 
+##Excercise 6 - database setup 
