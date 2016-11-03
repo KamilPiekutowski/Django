@@ -4,5 +4,6 @@
 ##Excercise 2 - crate a first project - complete
 ##Excercise 3 - crate an app - complete
 ##Excercise 4 - overview of basic app- complete
-##Excercise 5 - views complete
-##Excercise 6 - database setup 
+##Excercise 5 - views complete - complete
+##Excercise 6 - database setup - complete
+##Excercise 7 - crating models - complete 
