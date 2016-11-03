@@ -9,3 +9,4 @@
 ##Excercise 7 - crating models - complete 
 ##Excercise 8 - activating models- complete 
 ##Excercise 9 - database api - complete 
+##Excercise 10 - filtering- complete 
