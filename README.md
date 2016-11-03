@@ -10,3 +10,4 @@
 ##Excercise 8 - activating models- complete 
 ##Excercise 9 - database api - complete 
 ##Excercise 10 - filtering- complete 
+##Excercise 11 - admin interface - complete 
