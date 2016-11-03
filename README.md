@@ -11,3 +11,4 @@
 ##Excercise 9 - database api - complete 
 ##Excercise 10 - filtering- complete 
 ##Excercise 11 - admin interface - complete 
+##Excercise 12 - writing another view- complete 
