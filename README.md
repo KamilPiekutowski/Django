@@ -7,3 +7,4 @@
 ##Excercise 5 - views complete - complete
 ##Excercise 6 - database setup - complete
 ##Excercise 7 - crating models - complete 
+##Excercise 8 - activating models- complete 
