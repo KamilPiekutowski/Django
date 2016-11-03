@@ -13,3 +13,4 @@
 ##Excercise 11 - admin interface - complete 
 ##Excercise 12 - writing another view- complete 
 ##Excercise 13 - connecting to the database - complete 
+##Excercise 14 - templates - complete 
