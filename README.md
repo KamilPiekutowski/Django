@@ -15,3 +15,4 @@
 ##Excercise 13 - connecting to the database - complete 
 ##Excercise 14 - templates - complete 
 ##Excercise 15 - render - complete 
+##Excercise 16 - raising 404- complete 
