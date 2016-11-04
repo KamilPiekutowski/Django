@@ -17,4 +17,5 @@
 ##Excercise 15 - render - complete 
 ##Excercise 16 - raising 404- complete 
 ##Excercise 17 - adding songs - complete 
-##Excercise 18 - related object set- complete 
+##Excercise 18 - related object set - complete
+##Excercise 19 - rdesigning the detais template - complete  
