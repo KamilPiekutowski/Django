@@ -24,3 +24,4 @@
 ##Excercise 22 - simple form - complete  
 ##Excercise 23 - adding forms to the template - complete  
 ##Excercise 24 - favorite view function- complete  
+##Excercise 25 - navigation menu - complete  
