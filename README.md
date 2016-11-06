@@ -21,3 +21,4 @@
 ##Excercise 19 - redesigning the detais template - complete  
 ##Excercise 20 - removing hardcoded ulrs - complete  
 ##Excercise 21 - namespace and HTTP 404 shortcut- complete  
+##Excercise 22 - simple form - complete  
