@@ -22,3 +22,4 @@
 ##Excercise 20 - removing hardcoded ulrs - complete  
 ##Excercise 21 - namespace and HTTP 404 shortcut- complete  
 ##Excercise 22 - simple form - complete  
+##Excercise 23 - adding forms to the template - complete  
