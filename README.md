@@ -25,3 +25,4 @@
 ##Excercise 23 - adding forms to the template - complete  
 ##Excercise 24 - favorite view function- complete  
 ##Excercise 25 - bootstrap and static files- complete  
+##Excercise 26 - navigation bar - complete  
