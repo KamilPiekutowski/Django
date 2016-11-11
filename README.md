@@ -29,3 +29,5 @@
 ##Excercise 27 - finishing navigation bar - complete  
 
 ###not a part of excercise - adding photo gallery carousele
+
+##Excercise 28 - crating base template - complete  
