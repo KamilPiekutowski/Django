@@ -32,3 +32,4 @@
 
 ##Excercise 28 - crating base template - complete  
 ##Excercise 29 - generic views - complete  
+##Excercise 30 - model forms- complete  
