@@ -9,12 +9,8 @@ body{
 }
 
 .navbar-brand{
-    font-family: 'Satisfy', curive;
+    font-family: 'Satisfy', monospace;
 }
 
-.carousel-inner > item > img, 
-.carousel-inner > item > a > img {
-    width: 70%;
-    margin: auto;
-}
+
 
