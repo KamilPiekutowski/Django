@@ -31,3 +31,4 @@
 ###not a part of excercise - adding photo gallery carousele
 
 ##Excercise 28 - crating base template - complete  
+##Excercise 29 - generic views - complete  
