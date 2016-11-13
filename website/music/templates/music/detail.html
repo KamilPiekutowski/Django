@@ -2,17 +2,21 @@
 {% block title %}Album Details{% endblock %}
 
 {% block body %}
-    <img src="{{ album.album_logo }}" style="width:250px; height:250px;">
+	<div class="content">
+		<div class="items" width="300px">
+			<img src="{{ album.album_logo }}" style="width:250px; height:250px;">
 
-    <h1>{{ album.artist }}</h1>
-    <h3>{{ album.album_title }}</h3>
+			<h1>{{ album.artist }}</h1>
+			<h3>{{ album.album_title }}</h3>
 
-    {% for song in album.song_set.all %}
-        {{ song.song_title }}
-        {% if song.is_favorite %}
-            <img src="https://openclipart.org/image/800px/svg_to_png/165163/1319916184.png" width="20px" height="20px">
-        {% endif %}
-        <br>
-    {% endfor %}
+			{% for song in album.song_set.all %}
+				{{ song.song_title }}
+				{% if song.is_favorite %}
+				    <img src="https://openclipart.org/image/800px/svg_to_png/165163/1319916184.png" width="20px" height="20px">
+				{% endif %}
+				<br>
+			{% endfor %}
+		</div>
+	</div>
 
 {% endblock %}

@@ -6,11 +6,40 @@ body{
 
 .navbar{
     border-radius: 0; 
+    width: 380px;
+    margin: 0 auto;
+    text-align: center;
 }
 
-.navbar-brand{
-    font-family: 'Satisfy', monospace;
+.navbar-nav {
+
 }
 
 
+#myCarousel{
+    width: 380px;
+    height: 380px;
+    margin: 0 auto;
+}
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 5% auto;
+}
+.navbar-nav{
+    margin: 0px;
+}
+
+.content{
+	display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+
+}
+
+.items {
+	align-items: left;
+}
 
